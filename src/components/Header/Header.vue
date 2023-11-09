@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import Navbar from "../Navbar.vue";
-import SocialPlatform from "../SocialPlatform.vue";
+import Navbar from "@/Components/Navbar.vue";
+import SocialPlatform from "@/Components/SocialPlatform.vue";
 </script>
 
 <template>
