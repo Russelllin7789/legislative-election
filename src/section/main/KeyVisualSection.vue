@@ -26,12 +26,12 @@
         </div>
         <div class="relative flex items-center justify-center pt-8">
           <div
-            class="absolute top-[300px] left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[420px] z-10"
+            class="absolute top-5 left-1/2 transform -translate-x-1/2 w-[420px] z-10"
           >
             <img src="/avatar.png" alt="legislator avatar" />
           </div>
           <div
-            class="absolute w-[723px] h-[398px] bg-blue-light rounded-t-[450px] top-[170px]"
+            class="absolute w-[723px] h-[398px] bg-blue-light rounded-t-[450px] top-[158px]"
           ></div>
         </div>
       </div>
