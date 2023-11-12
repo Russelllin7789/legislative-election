@@ -4,7 +4,7 @@
   >
     <div class="w-[1200px] flex items-stretch justify-stretch">
       <div
-        class="flex flex-col py-14 pl-7 pr-14 bg-[#ffffff] rounded-l-lg w-[50%]"
+        class="flex flex-col py-14 pl-7 pr-14 bg-[#ffffff] rounded-l-lg w-[50%] max-h-[544px] overflow-y-scroll"
       >
         <div class="flex flex-col items-center justify-center mb-5">
           <div
@@ -33,12 +33,10 @@
           </p>
         </div>
       </div>
-      <div
-        class="flex w-[50%] rounded-r-lg h-0 pb-[100%] overflow-hidden bg-[url('/advocate-avatar.png')] background-img-container"
-      >
-        <!-- <div
-          class="w-full h-0 pb-[100%] overflow-hidden bg-[url('/advocate-avatar.png')] background-img-container"
-        ></div> -->
+      <div class="flex w-[50%]">
+        <div class="w-full rounded-r-lg overflow-hidden">
+          <img src="/advocate-avatar.png" class="w-full h-full object-cover" />
+        </div>
       </div>
     </div>
   </div>
