@@ -2,7 +2,7 @@
   <div
     class="w-full px-[200px] py-[104px] bg-orange-light flex items-center justify-center mt-[613px]"
   >
-    <div class="w-[900px] flex items-center justify-center">
+    <div class="w-[1200px] flex items-stretch justify-stretch">
       <div
         class="flex flex-col py-14 pl-7 pr-14 bg-[#ffffff] rounded-l-lg w-[50%]"
       >
