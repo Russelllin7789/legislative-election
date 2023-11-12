@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="w-full pt-[100px]">
+  <div class="block w-full pt-[100px]">
     <div class="flex items-center justify-center w-full">
       <div class="w-[900px] pt-[100px]">
         <img src="/slogan.svg" alt="election slogan" />
