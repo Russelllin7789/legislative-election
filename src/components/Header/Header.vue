@@ -4,7 +4,7 @@ import SocialPlatform from "@/Components/SocialPlatform.vue";
 </script>
 
 <template>
-  <div class="fixed h-[100px] w-full px-6 py-4 bg-[#f5f5f5]">
+  <div class="fixed h-[100px] w-full px-6 py-4 bg-[#f5f5f5] z-50">
     <div class="max-w-[1920px] w-full h-full flex items-center justify-around">
       <router-link to="/">
         <div class="h-full flex items-center">

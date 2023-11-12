@@ -4,7 +4,7 @@
   >
     <div class="w-[1200px] flex items-stretch justify-stretch">
       <div
-        class="flex flex-col py-14 pl-7 pr-14 bg-[#ffffff] rounded-l-lg w-[50%] max-h-[544px] overflow-y-scroll"
+        class="flex flex-col py-14 pl-7 pr-14 bg-[#ffffff] rounded-l-[32px] w-[50%] max-h-[544px] overflow-y-scroll"
       >
         <div class="flex flex-col items-center justify-center mb-5">
           <div
@@ -34,8 +34,12 @@
         </div>
       </div>
       <div class="flex w-[50%]">
-        <div class="w-full rounded-r-lg overflow-hidden">
-          <img src="/advocate-avatar.png" class="w-full h-full object-cover" />
+        <div class="w-full rounded-r-[32px] overflow-hidden">
+          <img
+            src="/advocate-avatar.png"
+            class="w-full h-full object-cover"
+            alt="advocate avatar"
+          />
         </div>
       </div>
     </div>
@@ -43,12 +47,3 @@
 </template>
 
 <script setup lang="ts"></script>
-<style scoped>
-.background-img-container {
-  background-position: center center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-}
-</style>
