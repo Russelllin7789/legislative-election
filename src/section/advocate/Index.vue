@@ -1,5 +1,5 @@
 <template>
-  <div
+  <section
     class="w-full px-[200px] py-[104px] bg-orange-light flex items-center justify-center mt-[613px]"
   >
     <div class="w-[1200px] flex items-stretch justify-stretch">
@@ -12,9 +12,9 @@
           >
             ADVOCATE
           </div>
-          <div class="text-orange-primary py-4 text-[64px] leading-[93px]">
+          <h2 class="text-orange-primary py-4 text-[64px] leading-[93px]">
             候選人主張
-          </div>
+          </h2>
         </div>
         <div>
           <p class="text-[28px] leading-[42px] font-bold">
@@ -43,7 +43,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script setup lang="ts"></script>

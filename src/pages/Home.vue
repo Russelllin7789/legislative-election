@@ -2,6 +2,7 @@
 import Header from "@/Components/Header/Header.vue";
 import Main from "@/Section/main/Index.vue";
 import Advocate from "@/Section/advocate/Index.vue";
+import Events from "@/Section/events/Index.vue";
 </script>
 
 <template>
@@ -9,5 +10,6 @@ import Advocate from "@/Section/advocate/Index.vue";
     <Header />
     <Main />
     <Advocate />
+    <Events />
   </div>
 </template>
