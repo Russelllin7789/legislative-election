@@ -4,6 +4,7 @@ import Main from "@/Section/main/Index.vue";
 import Advocate from "@/Section/advocate/Index.vue";
 import Events from "@/Section/events/Index.vue";
 import Issues from "@/Section/issues/Index.vue";
+import SubContent from "@/Section/subContent/Index.vue";
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import Issues from "@/Section/issues/Index.vue";
     <Advocate />
     <Events />
     <Issues />
+    <SubContent />
   </div>
 </template>
