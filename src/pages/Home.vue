@@ -6,6 +6,7 @@ import Events from "@/Section/events/Index.vue";
 import Issues from "@/Section/issues/Index.vue";
 import SubContent from "@/Section/subContent/Index.vue";
 import Slogan from "@/Section/slogan/Index.vue";
+import Footer from "@/Components/Footer/Footer.vue";
 </script>
 
 <template>
@@ -17,5 +18,6 @@ import Slogan from "@/Section/slogan/Index.vue";
     <Issues />
     <SubContent />
     <Slogan />
+    <Footer />
   </div>
 </template>
