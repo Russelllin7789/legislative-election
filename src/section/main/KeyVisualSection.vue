@@ -11,9 +11,11 @@
           >
             2024 立委參選人
           </div>
-          <div class="flex items-center justify-center">
+          <div
+            class="flex items-center justify-center rounded-[16px] py-3 px-4 ml-4 shadow-md"
+          >
             <div
-              class="w-[50px] h-[50px] rounded-full bg-orange-primary text-[#ffffff] font-bold flex items-center justify-center text-[30px] ml-8"
+              class="w-[50px] h-[50px] rounded-full bg-orange-primary text-[#ffffff] font-bold flex items-center justify-center text-[30px]"
             >
               3
             </div>
