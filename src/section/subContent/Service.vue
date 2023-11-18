@@ -1,7 +1,9 @@
 <template>
   <div class="bg-gray-darker rounded-[32px] p-[96px]">
     <div>
-      <div class="text-[52px] leading-[75px] text-[#ffffff]">民眾服務信箱</div>
+      <div class="text-[52px] leading-[75px] text-[#ffffff] font-mantou">
+        民眾服務信箱
+      </div>
       <p class="font-[600px] text-xl leading-[24px] text-[#ffffff] my-6">
         親愛的鄉親，每一位市民的意見都是我們社區前進的原動力
       </p>

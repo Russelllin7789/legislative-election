@@ -2,10 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "MANTOU";
+  src: url("../public/MantouSans-Regular.ttf");
+}
+
 :root {
   box-sizing: border-box;
 }
 
 #app {
   min-height: 100vh;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #e5793b 0%, #ff4185 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

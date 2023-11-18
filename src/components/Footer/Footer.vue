@@ -3,7 +3,7 @@
     <div class="w-[50%]">
       <div class="mb-2 flex items-center">
         <div
-          class="w-[32px] h-[32px] rounded-full bg-orange-primary text-[#ffffff] font-bold flex items-center justify-center text-[20.5px]"
+          class="w-[32px] h-[32px] rounded-full bg-gradient-to-r from-[#E5793B] to-[#FF4185] text-[#ffffff] font-bold flex items-center justify-center text-[20.5px]"
         >
           3
         </div>

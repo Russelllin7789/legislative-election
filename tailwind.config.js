@@ -2,7 +2,11 @@
 export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        mantou: ["MANTOU"],
+      },
+    },
     colors: {
       "orange-primary": "#DA7D4A",
       "orange-light": "#F7ECE1",

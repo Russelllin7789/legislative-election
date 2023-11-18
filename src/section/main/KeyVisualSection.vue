@@ -15,7 +15,7 @@
             class="flex items-center justify-center rounded-[16px] py-3 px-4 ml-4 shadow-md"
           >
             <div
-              class="w-[50px] h-[50px] rounded-full bg-orange-primary text-[#ffffff] font-bold flex items-center justify-center text-[30px]"
+              class="w-[50px] h-[50px] rounded-full bg-gradient-to-r from-[#E5793B] to-[#FF4185] text-[#ffffff] font-bold flex items-center justify-center text-[30px]"
             >
               3
             </div>

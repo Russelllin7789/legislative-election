@@ -12,7 +12,7 @@
           >
             ADVOCATE
           </div>
-          <h2 class="text-orange-primary py-4 text-[64px] leading-[93px]">
+          <h2 class="text-gradient py-4 text-[64px] leading-[93px] font-mantou">
             候選人主張
           </h2>
         </div>

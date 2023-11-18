@@ -6,7 +6,7 @@
       >
         POLICY ISSUES
       </div>
-      <h2 class="text-orange-primary pt-4 text-[64px] leading-[93px]">
+      <h2 class="text-gradient pt-4 text-[64px] leading-[93px] font-mantou">
         政策議題
       </h2>
     </div>

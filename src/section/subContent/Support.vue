@@ -1,7 +1,9 @@
 <template>
   <div class="bg-orange-primary rounded-[32px] p-[96px]">
     <div>
-      <div class="text-[52px] leading-[75px] text-[#ffffff]">小額支持喵喵</div>
+      <div class="text-[52px] leading-[75px] text-[#ffffff] font-mantou">
+        小額支持喵喵
+      </div>
       <p class="font-[600px] text-xl leading-[24px] text-[#ffffff] my-6">
         您的小筆捐款，是每隻毛孩未來的大大動力！
       </p>
