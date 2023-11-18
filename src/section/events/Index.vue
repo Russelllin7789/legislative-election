@@ -32,7 +32,7 @@
           </div>
         </div>
         <div class="flex flex-col w-[50%]">
-          <div class="w-full flex items-center mb-4">
+          <div class="w-full flex items-start mb-4">
             <div class="w-[200px] min-w-[200px] mr-4">
               <img
                 src="/events-one.png"
@@ -50,7 +50,7 @@
               </p>
             </div>
           </div>
-          <div class="w-full flex items-center mb-4">
+          <div class="w-full flex items-start mb-4">
             <div class="w-[200px] min-w-[200px] mr-4">
               <img
                 src="/events-two.png"
@@ -66,7 +66,7 @@
               </p>
             </div>
           </div>
-          <div class="w-full flex items-center mb-4">
+          <div class="w-full flex items-start mb-4">
             <div class="w-[200px] min-w-[200px] mr-4">
               <img
                 src="/events-three.png"
