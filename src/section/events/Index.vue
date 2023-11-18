@@ -87,9 +87,12 @@
           </div>
           <div>
             <button
-              class="py-4 px-6 bg-gray-lighter text-base leading-[20px] font-[600] rounded-[500px]"
+              class="py-4 px-6 bg-gray-lighter text-base leading-[20px] font-[600] rounded-[500px] flex items-center"
             >
-              查看更多
+              <div>查看更多</div>
+              <div class="w-8 h-8 ml-2 p-1">
+                <img src="/arrow_forward.png" class="w-full" />
+              </div>
             </button>
           </div>
         </div>
